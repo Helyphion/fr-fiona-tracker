@@ -1,13 +1,11 @@
 {
     "Gathering":
     {
-        "Marshfowl": {"id": 33452,
-            "requires": {
-                "Lilyfowl": {"id": 27674, "note": "Hunting, Level 10+"},
-                "Paddyfowl": {"id": 27673, "note": "Hunting, Level 10+"}}},
+        "Marshfowl": {"id": 33452, "requires": {
+            "Lilyfowl": {"id": 27674, "note": "Hunting, Level 10+"},
+            "Paddyfowl": {"id": 27673, "note": "Hunting, Level 10+"}}},
 
-        "Tripled Tulip": {"id": 62286,
-        "requires": {
+        "Tripled Tulip": {"id": 62286, "requires": {
             "Garden Watcher": {"id": 26126},
             "Creeping Tendril": {"id": 26125}}}
     },
