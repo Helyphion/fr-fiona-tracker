@@ -1,0 +1,17 @@
+{
+    "Gathering":
+    {
+        "Marshfowl": {"id": 33452,
+            "requires": {
+                "Lilyfowl": {"id": 27674, "note": "Hunting, Level 10+"},
+                "Paddyfowl": {"id": 27673, "note": "Hunting, Level 10+"}}},
+
+        "Tripled Tulip": {"id": 62286,
+        "requires": {
+            "Garden Watcher": {"id": 26126},
+            "Creeping Tendril": {"id": 26125}}}
+    },
+
+"comment": "this is just a proof of concept. I think a database like this would be really handy to have, and could potentially automate parts of maintaining the tracker in the future...",
+"but": "I'm really undecided about what the most useful structure for this would be, and I also really cannot be bothered to gather all the data needed for this by clicking through the game database. I'd go insane"
+}
