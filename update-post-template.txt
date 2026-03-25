@@ -1,0 +1,66 @@
+@pinglist-55237
+
+{featNumber} new Fiona familiars [url={announcementURL}]have been added[/url].
+
+[list]
+[*][gamedb item=65669] // [b]Warrior's Way[/b]
+(requires [gamedb item=46536] + [gamedb item=46537])
+[*][gamedb item=65672] // [b]Ghostlight Ruins[/b]
+(requires [gamedb item=16479] + [gamedb item=16477])
+[*][gamedb item=65673] // [b]Redrock Cove[/b]
+(requires [gamedb item=20147] + [gamedb item=20153])
+[/list]
+
+Both version of the template have been updated to include the familiars needed for these feats. If you already have a personal tracker using this template set up and would prefer not to have to re-add all the info for which familiars you've already obtained/awakened, please follow the instructions below:
+
+[hidden title="UPDATE INSTRUCTIONS // BIO VERSION"]
+Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add a new line below it, and paste in the text from the code block!
+[rule]
+Search for: [b]=58768][/b]
+[code][rule]
+[gamedb item=46536]
+[gamedb item=46537][/code]
+[rule]
+Search for: [b]=16482][/b]
+[code][rule]
+[gamedb item=16479]
+[gamedb item=16477][/code]
+[rule]
+Search for: [b]=20144][/b]
+[code][rule]
+[gamedb item=20147]
+[gamedb item=20153][/code]
+[rule]
+If you want, you can search for [b]version:[/b] and replace the date behind it with
+[b]23-10-2025[/b] to make it easier to keep track of what exactly you've added.
+[/hidden]
+[hidden title="UPDATE INSTRUCTIONS // FORUM VERSION"]
+Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add [b]two new lines[/b] below it, and paste in the text from the code block!
+[rule]
+Search for: [b]=58768][/b]
+[code]
+[gamedb item=46536]
+[gamedb item=46537][/code]
+[rule]
+Search for: [b]=16482][/b]
+[code]
+[gamedb item=16479]
+[gamedb item=16477][/code]
+[rule]
+Search for: [b]=20144][/b]
+[code]
+[gamedb item=20147]
+[gamedb item=20153][/code]
+[rule]
+Additionally, to align the columns correctly, you will have to:
+search for [b]=21526][/b] and remove [b]three blank lines[/b] below it.
+[rule]
+If you want, you can search for [b]version:[/b] and replace the date behind it with
+[b]23-10-2025[/b] to make it easier to keep track of what exactly you've added.
+[/hidden]
+
+If you notice any mistakes or oddities, please do let me know! (Either ping me here or send a PM.)
+Feedback of any kind is also always welcome. :]
+
+
+[center][pinglist=55237] [pinglist=55238][/center]
