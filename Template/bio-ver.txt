@@ -1,0 +1,388 @@
+[center][size=5]FIONA FEATS FAMILIARS TRACKER[/size]
+[b][url=https://www1.flightrising.com/forums/gde/3416901]Template[/url][/b] by [b][url=https://www1.flightrising.com/clan-profile/676173]Schmelios[/url][/b] [size=2](version: 15-03-2026)[/size]
+
+key: [i][color=#731D08][b]obtained[/b][/color][/i] // [s][i][color=#731D08][b]awakened[/b][/color][/i][/s]
+[/center]
+
+[COLUMNS]
+[NEXTCOL]
+[color=transparent]____________________________________[/color]
+[size=4][b]GATHERING[/b][/size]
+[gamedb item=27674] (Hunting, Level 10+)
+[gamedb item=27673] (Hunting, Level 10+)
+[rule]
+[gamedb item=26125] (Foraging, Level 10+)
+[gamedb item=26126] (Foraging, Level 10+)
+
+[size=4][b]ARLO'S ANCIENT ARTIFACTS[/b][/size]
+[gamedb item=53119] (Frozen Age)
+[gamedb item=53118] (Frozen Age)
+
+[size=4][b]BALDWIN'S BUBBLING BREW[/b][/size]
+[gamedb item=12739] (Level 8)
+[gamedb item=12740] (Level 8)
+[rule]
+[gamedb item=24135] (Level 11)
+[gamedb item=24136] (Level 11)
+[rule]
+[gamedb item=17373] (Level 14)
+[gamedb item=17374] (Level 14)
+[rule]
+[gamedb item=18439] (Level 15)
+[gamedb item=18440] (Level 15)
+[rule]
+[gamedb item=33915] (Level 25)
+[gamedb item=33914] (Level 25)
+
+[size=4][b]SWIPP'S SWAP STAND[/b][/size]
+[gamedb item=14290]
+[gamedb item=14291]
+[rule]
+[gamedb item=15594]
+[gamedb item=15593]
+[rule]
+[gamedb item=14289]
+[gamedb item=14288]
+[rule]
+[gamedb item=4679]
+
+
+[size=4][b]TREASURE MARKETPLACE[/b][/size]
+[gamedb item=50637]
+[gamedb item=50638]
+[rule]
+[gamedb item=4678]
+
+[size=4][b]GEM MARKETPLACE[/b][/size]
+[gamedb item=22852]
+[gamedb item=22853]
+[rule]
+[gamedb item=8320]
+[gamedb item=8319]
+
+
+[size=4][b]RETIRED[/b][/size]
+[gamedb item=26776]
+[rule]
+[gamedb item=36598]
+[rule]
+[gamedb item=57818]
+[rule]
+[gamedb item=58578]
+
+[NEXTCOL]
+[color=transparent]____________________________________[/color]
+[size=4][b]NIGHT OF THE NOCTURNE[/b][/size]
+[gamedb item=20825]
+[gamedb item=20826]
+[rule]
+[gamedb item=25167]
+[gamedb item=25168]
+[rule]
+[gamedb item=20814]
+[gamedb item=20813]
+[rule]
+[gamedb item=32671]
+[gamedb item=32670]
+[rule]
+[gamedb item=15289]
+[gamedb item=15286]
+[rule]
+[gamedb item=15280]
+[gamedb item=15283]
+[rule]
+[gamedb item=32672]
+[gamedb item=32673]
+[rule]
+[gamedb item=25162] (Baldwin)
+[gamedb item=25161] (Baldwin)
+[rule]
+[gamedb item=28766] (Baldwin)
+[gamedb item=28767] (Baldwin)
+
+[size=4][b]WARRIOR'S WAY[/b][/size]
+[gamedb item=40565]
+[gamedb item=40564]
+[rule]
+[gamedb item=46530]
+[gamedb item=46529]
+[rule]
+[gamedb item=58767]
+[gamedb item=58768]
+[rule]
+[gamedb item=46536]
+[gamedb item=46537]
+[rule]
+[gamedb item=40571]
+[gamedb item=40570]
+
+[size=4][b]TALK LIKE A PIRATE WEEK[/b][/size]
+[gamedb item=47011]
+[gamedb item=47010]
+[rule]
+[gamedb item=59449]
+[gamedb item=59450]
+[rule]
+[gamedb item=35958] (Baldwin)
+[gamedb item=35957] (Baldwin)
+
+[size=4][b]LOVE IS IN THE AIR[/b][/size]
+[gamedb item=54811]
+[gamedb item=54810]
+[rule]
+[gamedb item=21525]
+[gamedb item=21526] (Baldwin)
+[/COLUMNS]
+
+
+[rule]
+
+
+[COLUMNS]
+[NEXTCOL]
+[size=4][b]TRAINING FIELDS[/b][/size]
+[gamedb item=22376]
+[gamedb item=22377]
+[rule]
+[gamedb item=22395]
+[gamedb item=22394]
+
+[size=4][b]SCORCHED FOREST[/b][/size]
+[gamedb item=6338]
+[gamedb item=6339]
+[rule]
+[gamedb item=6337]
+[gamedb item=6336]
+[rule]
+[gamedb item=20029]
+[gamedb item=20030]
+
+[size=4][b]BONEYARD[/b][/size]
+[gamedb item=57772]
+[gamedb item=57776]
+[rule]
+[gamedb item=57786]
+[gamedb item=57787]
+[rule]
+[gamedb item=57921]
+[gamedb item=57920]
+[rule]
+[gamedb item=58030]
+[gamedb item=58029]
+[rule]
+[gamedb item=58033]
+[gamedb item=58032]
+[rule]
+[gamedb item=57927]
+[gamedb item=57926]
+[rule]
+[gamedb item=57922]
+[gamedb item=57924]
+
+[size=4][b]SANDSWEPT DELTA[/b][/size]
+[gamedb item=38527]
+[gamedb item=38528]
+[rule]
+[gamedb item=38502]
+[gamedb item=38503]
+[rule]
+[gamedb item=38494]
+[gamedb item=38493]
+
+[size=4][b]SILK-STREWN WRECKAGE[/b][/size]
+[gamedb item=51927]
+[gamedb item=51928]
+[rule]
+[gamedb item=51941]
+[gamedb item=51942]
+[rule]
+[gamedb item=51946] (Boss)
+[gamedb item=51945] (Boss)
+
+[size=4][b]BLOOMING GROVE[/b][/size]
+[gamedb item=23810]
+[gamedb item=23811]
+[rule]
+[gamedb item=23833]
+[gamedb item=23832]
+
+[size=4][b]FORGOTTEN CAVE[/b][/size]
+[gamedb item=14560]
+[gamedb item=14558]
+
+[size=4][b]BAMBOO FALLS[/b][/size]
+[gamedb item=11148]
+[gamedb item=11147]
+
+[size=4][b]THUNDERHEAD SAVANNA[/b][/size]
+[gamedb item=28233]
+[gamedb item=28237]
+[rule]
+[gamedb item=28246]
+[gamedb item=28247]
+[rule]
+[gamedb item=28232]
+[gamedb item=28140]
+[rule]
+[gamedb item=28228]
+[gamedb item=28229]
+[rule]
+[gamedb item=28133]
+[gamedb item=28234]
+[rule]
+[gamedb item=28236] (Boss)
+[gamedb item=28235] (Boss)
+
+[size=4][b]REDROCK COVE[/b][/size]
+[gamedb item=20150]
+[gamedb item=20144]
+[rule]
+[gamedb item=20147]
+[gamedb item=20153]
+
+[size=4][b]WATERWAY[/b][/size]
+[gamedb item=25765]
+[gamedb item=25764]
+
+[size=4][b]ARENA[/b][/size]
+[gamedb item=24506]
+[gamedb item=24505]
+[rule]
+[gamedb item=17495]
+[gamedb item=17496]
+[rule]
+[gamedb item=24508]
+[gamedb item=24507]
+[rule]
+[gamedb item=17508] (Boss)
+[gamedb item=17507] (Boss)
+
+[size=4][b]VOLCANIC VENTS[/b][/size]
+[gamedb item=21418]
+[gamedb item=21419]
+[rule]
+[gamedb item=21427]
+[gamedb item=21426]
+[rule]
+[gamedb item=21436]
+[gamedb item=21437]
+[color=transparent]____________________________________[/color]
+[NEXTCOL]
+[size=4][b]RAINSONG JUNGLE[/b][/size]
+[gamedb item=10234]
+[gamedb item=10235]
+[rule]
+[gamedb item=11669]
+[gamedb item=11666]
+[rule]
+[gamedb item=10227]
+[gamedb item=10229]
+[rule]
+[gamedb item=10667]
+[gamedb item=10666]
+[rule]
+[gamedb item=9226]
+[gamedb item=9225]
+[rule]
+[gamedb item=10233] (Boss)
+[gamedb item=10231] (Boss)
+
+[size=4][b]BOREAL WOOD[/b][/size]
+[gamedb item=10759]
+[gamedb item=10760]
+[rule]
+[gamedb item=31191]
+[gamedb item=31190]
+
+[size=4][b]CRYSTAL POOLS[/b][/size]
+[gamedb item=13423]
+[gamedb item=13422]
+[rule]
+[gamedb item=13429]
+[gamedb item=13424]
+[rule]
+[gamedb item=13427]
+[gamedb item=13432]
+[rule]
+[gamedb item=13428] (Boss)
+[gamedb item=13430] (Boss)
+
+[size=4][b]HARPY'S ROOST[/b][/size]
+[gamedb item=2590]
+[gamedb item=2591]
+[rule]
+[gamedb item=16912] (Boss)
+[gamedb item=16911] (Boss)
+
+[size=4][b]GHOSTLIGHT RUINS[/b][/size]
+[gamedb item=16488]
+[gamedb item=16480]
+[rule]
+[gamedb item=16475]
+[gamedb item=16476]
+[rule]
+[gamedb item=16486]
+[gamedb item=16474]
+[rule]
+[gamedb item=16472]
+[gamedb item=16485]
+[rule]
+[gamedb item=16489]
+[gamedb item=16482]
+[rule]
+[gamedb item=16479]
+[gamedb item=16477]
+
+[size=4][b]MIRE[/b][/size]
+[gamedb item=11515]
+[gamedb item=11510]
+
+[size=4][b]KELP BEDS[/b][/size]
+[gamedb item=4354]
+[gamedb item=4353]
+[rule]
+[gamedb item=4352]
+[gamedb item=4351]
+[rule]
+[gamedb item=4356]
+[gamedb item=4355]
+[rule]
+[gamedb item=11680]
+[gamedb item=11679]
+[rule]
+[gamedb item=7883] (Boss)
+[gamedb item=7882] (Boss)
+
+[size=4][b]CONSTRUCT WORKSHOP[/b][/size]
+[gamedb item=33308]
+[gamedb item=33311]
+[rule]
+[gamedb item=11816]
+[gamedb item=11815]
+[rule]
+[gamedb item=7593]
+[gamedb item=7591]
+[rule]
+[gamedb item=7592]
+[gamedb item=7597]
+[rule]
+[gamedb item=7601]
+[gamedb item=7602]
+[rule]
+[gamedb item=34774]
+[gamedb item=34773]
+[rule]
+[gamedb item=7594] (Boss)
+[gamedb item=7600] (Boss)
+
+[size=4][b]FORBIDDEN PORTAL[/b][/size]
+[gamedb item=34791]
+[gamedb item=34792]
+[rule]
+[gamedb item=34718]
+[gamedb item=34717]
+[rule]
+[gamedb item=34794]
+[gamedb item=34793]
+[color=transparent]____________________________________[/color]
+[/COLUMNS]
