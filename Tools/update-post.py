@@ -17,6 +17,7 @@ FRdate = info["fr date"]
 
 spacing = []
 
+# add handling for when there's no spacing updates 
 for x in info["spacing"]:
 
     goesAfter = x["goes after"]
@@ -32,8 +33,10 @@ for x in info["spacing"]:
     else:
         # grammars the sentence correctly lol
         spacing.append(f"search for [b]={goesAfter}][/b] and {"add" if change > 0 else "remove"} [b]{abs(change)} blank {"line" if abs(change) == 1 else "lines"}[/b] below it")
+        print(spacing)
 
+# note bc I will forget: spacing variable contains the sentences for spacing instructions; need to add punctuation
 
-# check number of entries using len(familiars) etc
-# also disregard entries with blank (None) fields just in case
-# then assemble BBCode list by iterating based on the number of valid entries
+# dude idk what happened but my vscode broke and just would not recognise my python installation as a valid interpreter and I was losing my mind for like an hour trying to fix it
+# and now it works again and I ??? don't know why ?????
+# this is why you don't code at 3am...
