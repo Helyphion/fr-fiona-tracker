@@ -5,14 +5,10 @@ def getFamiliarsData():
     ret = []
 
     for x in info["familiars"]:
-        # print(x.values())
-
-        filled = []
-        for v in x.values():
-            if v not in (None, ""):
-                filled.append(True)
-            else:
-                filled.append(False)
+        
+        # creates a list of true/false values based on whether each field the familiar entry is filled in or not
+        # ...super condensed though, so it kind of hurts my brain
+        filled = [v not in (None, "") for v in x.values()]
         print(filled)
 
 
