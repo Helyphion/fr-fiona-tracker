@@ -11,6 +11,17 @@ def getFamiliarsData():
         filled = [v not in (None, "") for v in x.values()]
         print(filled)
 
+        if all(filled):
+            print("all data exists, yay")
+        elif any(filled):
+            print("some data exists?")
+        else:
+            print("no data")
+
+        # TODO: proper handling of each case
+        # TODO: make spacingInstructions() use this format as well perhaps
+        # TODO: ...take a break and get food for now
+
 
 def spacingInstructions():
     
