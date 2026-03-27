@@ -2,19 +2,6 @@ import yaml
 # from rich import print
 
 
-try:
-    with open("update-data.yaml", "r") as file:
-        info = yaml.safe_load(file)
-except FileNotFoundError:
-    with open("update-data.yaml", "w") as file:
-        file.write('announcement url: \nfr date: \n\nspacing:\n  - goes after: \n    change: \n  - goes after: \n    change: \n\nfamiliars:\n  - feat fam: \n    req fam 1: \n    req fam 2: \n    source: \n    goes after: \n\n  - feat fam: \n    req fam 1: \n    req fam 2: \n    source: \n    goes after: ')
-    print("[bold yellow]No update-data.yaml found. File has been created; please write your data into it.[/bold yellow]")
-    raise
-
-
-announcementURL = info["announcement url"]
-FRdate = info["fr date"]
-
 def spacingInstructions():
     
     ret = ""
@@ -48,6 +35,21 @@ def spacingInstructions():
 
     return ret
 
+
+
+# checks if update-data.yaml exists, creates it if not
+try:
+    with open("update-data.yaml", "r") as file:
+        info = yaml.safe_load(file)
+except FileNotFoundError:
+    with open("update-data.yaml", "w") as file:
+        file.write('announcement url: \nfr date: \n\nspacing:\n  - goes after: \n    change: \n  - goes after: \n    change: \n\nfamiliars:\n  - feat fam: \n    req fam 1: \n    req fam 2: \n    source: \n    goes after: \n\n  - feat fam: \n    req fam 1: \n    req fam 2: \n    source: \n    goes after: ')
+    print("[bold yellow]No update-data.yaml found. File has been created; please write your data into it.[/bold yellow]")
+    raise
+
+
+announcementURL = info["announcement url"]
+FRdate = info["fr date"]
 
 # only runs this part if spacing section has entries
 if info["spacing"]:
