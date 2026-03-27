@@ -1,6 +1,20 @@
 import yaml
 # from rich import print
 
+def getFamiliarsData():
+    ret = []
+
+    for x in info["familiars"]:
+        # print(x.values())
+
+        filled = []
+        for v in x.values():
+            if v not in (None, ""):
+                filled.append(True)
+            else:
+                filled.append(False)
+        print(filled)
+
 
 def spacingInstructions():
     
@@ -17,7 +31,7 @@ def spacingInstructions():
             print("skipped blank spacing entry")
         # raises an exception if any spacing entry specifies only one of goesAfter or Change
         elif not goesAfter or not change:
-            raise Exception(f"Data in update-data.yaml is incomplete. {x}")
+            raise Exception(f"Spacing data is incomplete. {x}")
         # actual code to be run after the input data is validated to be fine
         else:
             # grammars the sentence correctly lol
@@ -47,13 +61,25 @@ except FileNotFoundError:
     print("[bold yellow]No update-data.yaml found. File has been created; please write your data into it.[/bold yellow]")
     raise
 
+with open("update-post-template.txt", "r") as file:
+    template = file.read()
 
 announcementURL = info["announcement url"]
 FRdate = info["fr date"]
+if not announcementURL or not FRdate:
+    raise Exception("URL/date not provided.")
+
+"{featNumber} new Fiona familiars [url={URL}]have been added[/url]."
+print(len(info["familiars"]))
+
+getFamiliarsData()
 
 # only runs this part if spacing section has entries
 if info["spacing"]:
     spacingInstructions()
+
+test = template.format(URL=announcementURL, featNumber=3, date=FRdate)
+# print(test)
 
 # dude idk what happened but my vscode broke and just would not recognise my python installation as a valid interpreter and I was losing my mind for like an hour trying to fix it
 # and now it works again and I ??? don't know why ?????

@@ -1,6 +1,6 @@
 @pinglist-55237
 
-{featNumber} new Fiona familiars [url={announcementURL}]have been added[/url].
+{featNumber} new Fiona familiars [url={URL}]have been added[/url].
 
 [list]
 [*][gamedb item=65669] // [b]Warrior's Way[/b]
@@ -11,7 +11,7 @@
 (requires [gamedb item=20147] + [gamedb item=20153])
 [/list]
 
-Both versions of the template have been updated to include the familiars needed for these feats. If you already have a personal tracker using this template set up and would prefer not to have to re-add all the info for which familiars you've already obtained/awakened, please follow the instructions below.
+Both versions of the template have been updated to include the familiars needed for these feats. If you already have a personal tracker set up, you can update it using the instructions below:
 
 [hidden title="UPDATE INSTRUCTIONS // BIO VERSION"]
 Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add a new line below it, and paste in the text from the code block!
@@ -26,7 +26,7 @@ Search for: [b]=46537][/b]
 [gamedb item=46536]
 [gamedb item=46537][/code]
 [rule]
-You should also search for [b]version:[/b] and replace the date behind it with [b]15-03-2026[/b] to keep track of which version you're on.
+You should also search for [b]version:[/b] and replace the date behind it with [b]{date}[/b] to keep track of which version you're on.
 [/hidden]
 [hidden title="UPDATE INSTRUCTIONS // FORUM VERSION"]
 Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add [b]two new lines[/b] below it, and paste in the text from the code block!
@@ -44,7 +44,7 @@ Search for: [b]=16482][/b]
 Additionally, to align the columns correctly, you will have to:
 search for [b]=21526][/b] and remove [b]4 blank lines[/b] below it.
 [rule]
-You should also search for [b]version:[/b] and replace the date behind it with [b]15-03-2026[/b] to keep track of which version you're on.
+You should also search for [b]version:[/b] and replace the date behind it with [b]{date}[/b] to keep track of which version you're on.
 [/hidden]
 
 If you notice any mistakes or oddities, please do let me know! (Either ping me here or send a PM.)
