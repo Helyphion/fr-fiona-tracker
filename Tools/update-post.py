@@ -1,5 +1,5 @@
 import yaml
-from rich import print
+# from rich import print
 
 
 try:
@@ -15,27 +15,43 @@ except FileNotFoundError:
 announcementURL = info["announcement url"]
 FRdate = info["fr date"]
 
-spacing = []
+def spacingInstructions():
+    
+    ret = ""
+    sentenceList = []
 
-# add handling for when there's no spacing updates 
-for x in info["spacing"]:
+    for x in info["spacing"]:
 
-    goesAfter = x["goes after"]
-    change = x["change"]
+        goesAfter = x["goes after"]
+        change = x["change"]
 
-    # equivalent to "if goesAfter == None" (because empty variables evaluate to false)
-    if not goesAfter and not change:
-        print("skip this entry")
-    # raises an exception if any spacing entry specifies only one of goesAfter or Change
-    elif not goesAfter or not change:
-        raise Exception(f"Data in update-data.yaml is incomplete. {x}")
-    # actual code to be run after the input data is validated to be fine
-    else:
-        # grammars the sentence correctly lol
-        spacing.append(f"search for [b]={goesAfter}][/b] and {"add" if change > 0 else "remove"} [b]{abs(change)} blank {"line" if abs(change) == 1 else "lines"}[/b] below it")
-        print(spacing)
+        # equivalent to "if goesAfter == None" (because empty variables evaluate to false)
+        if not goesAfter and not change:
+            print("skipped blank spacing entry")
+        # raises an exception if any spacing entry specifies only one of goesAfter or Change
+        elif not goesAfter or not change:
+            raise Exception(f"Data in update-data.yaml is incomplete. {x}")
+        # actual code to be run after the input data is validated to be fine
+        else:
+            # grammars the sentence correctly lol
+            sentenceList.append(f"search for [b]={goesAfter}][/b] and [b]{"add" if change > 0 else "remove"} {abs(change)} {"new" if change > 0 else "blank"} {"line" if abs(change) == 1 else "lines"}[/b] below it")
 
-# note bc I will forget: spacing variable contains the sentences for spacing instructions; need to add punctuation
+    lastEntry = sentenceList[len(sentenceList)-1]
+
+    for x in sentenceList:
+        if x == lastEntry:
+            ret += x + "."
+        else:
+            ret += x + ";\n"
+    
+    ret = "[rule]\nAdditionally, to align the columns correctly, you will have to:\n" + ret
+
+    return ret
+
+
+# only runs this part if spacing section has entries
+if info["spacing"]:
+    spacingInstructions()
 
 # dude idk what happened but my vscode broke and just would not recognise my python installation as a valid interpreter and I was losing my mind for like an hour trying to fix it
 # and now it works again and I ??? don't know why ?????
