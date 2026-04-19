@@ -14,11 +14,11 @@ If you spot any mistakes, have any suggestions, notice that the template has not
     - note down where to **paste after**
     - remember to update **version number**
     - quickly **test** on a dragon
-    - copy over to `/Template/bio-version.txt`
+    - copy over to [`/Template/bio-version.txt`](https://github.com/Helyphion/fr-fiona-tracker/blob/main/Template/bio-version.txt)
 4. update **forum ver** in example post
     - remember to update **version number**
     - fix **spacing**, take note of where
-    - copy over to `/Template/forum-version.txt`
+    - copy over to [`/Template/forum-version.txt`](https://github.com/Helyphion/fr-fiona-tracker/blob/main/Template/forum-version.txt)
 5. make **update post** with `/Tools/update-post.py`
 6. add new instructions to **archive** *(and save to git)*
 7. update **changelog** in main post *(and save to git)*
