@@ -20,7 +20,7 @@ def getFamiliarsData():
             # raise Exception(f"Feats data is incomplete.")
             pass
         else:
-            print("skipped blank familiars entry")
+            print("skipped a blank familiars entry")
 
     return featsOverview, featsInstructions
 
@@ -37,7 +37,7 @@ def spacingInstructions():
 
         # equivalent to "if goesAfter == None" (because empty variables evaluate to false)
         if not goesAfter and not change:
-            print("skipped blank spacing entry")
+            print("skipped a blank spacing entry")
         # raises an exception if any spacing entry specifies only one of goesAfter or Change
         elif not goesAfter or not change:
             raise Exception(f"Spacing data is incomplete. {x}")
