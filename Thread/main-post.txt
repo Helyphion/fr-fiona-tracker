@@ -23,7 +23,8 @@ To be pinged at the start of [b]seasonal events[/b] that make familiars needed f
 
 
 [color=transparent]_[/color] [size=5][b]CHANGELOG[/b][/size]
-[color=transparent]__[/color] [b]15/03/2026[/b] [gamedb item=67548] feat added
+[color=transparent]__[/color] [b]19/04/2026[/b] [gamedb item=67930] feat added, moved from pastebin to github, github repo published
+[color=transparent]__[/color] [size=2][b]15/03/2026[/b][gamedb item=67548] feat added[/size]
 [color=transparent]__[/color] [size=2][b]07/01/2026[/b] past updates archive added, continuation permissions added[/size]
 [color=transparent]__[/color] [size=2][b]23/10/2025[/b] [url=https://www1.flightrising.com/forums/ann/3441700]three new feats[/url] added, one heading changed, main post reformatted[/size]
 [color=transparent]__[/color] [size=2][b]14/09/2025[/b] [gamedb item=65244] feat added[/size]
@@ -40,7 +41,7 @@ To be pinged at the start of [b]seasonal events[/b] that make familiars needed f
 [color=transparent]________[/color]
 [nextcol]
 [center]
-[size=5][b][url=https://pastebin.com/q4Pkzup5]Dragon Bio Version[/url][/b][/size]
+[size=5][b][url=https://github.com/Helyphion/fr-fiona-tracker/blob/main/Template/bio-version.txt]Dragon Bio Version[/url][/b][/size]
 [rule]
 [url=https://postimg.cc/hXzDN6R9][img]https://i.postimg.cc/pLkm5M01/FFFT-image-bio.png[/img][/url]
 [/center]
@@ -48,16 +49,19 @@ To be pinged at the start of [b]seasonal events[/b] that make familiars needed f
 [color=transparent]__[/color]
 [nextcol]
 [center]
-[size=5][b][url=https://pastebin.com/Mn8hCeGP]Forum Version[/url][/b][/size]
+[size=5][b][url=https://github.com/Helyphion/fr-fiona-tracker/blob/main/Template/forum-version.txt]Forum Version[/url][/b][/size]
 [rule]
 [url=https://postimg.cc/bsFYC8Wy][img]https://i.postimg.cc/y87JN8TZ/FFFT-image-forum.png[/img][/url]
 [/center]
 [/columns]
 
-[hidden title="In case this thread appears to be abandoned:"]I'm not the most reliable person, so in case I do ever drop off this site entirely¹, you're welcome to start up your own continuation of this thread. You may copy and freely modify my BBCode, info texts, spreadsheets, badges, assets, and whatever else I might have created for this project. If there are any parts credited to someone else (that aren't from a collection of free-to-use stuff), I'd appreciate if you contacted that person about it first before reusing it.
+[hidden title="In case this thread appears to be abandoned:"]I'm not the most reliable person, so in case I do ever drop off this site entirely¹, you're welcome to start up your own continuation of this thread. You may copy and freely modify my BBCode, info texts, spreadsheets, scripts, badges, assets, and whatever else I might have created for this project. If there are any parts credited to someone else (that aren't from a collection of free-to-use stuff), I'd appreciate if you contacted that person about it first before reusing it.
 I'd also appreciate if you credited me in your thread in some way (it's not mandatory, but it would make me happy), and if you could send me a PM with a link to your thread, so I can check it out in case I do return eventually!
 
-¹ What counts as "dropping off the site entirely" is kind of up to interpretation, but my definition would be if I have not made any forum posts in three months and can't be reached via PM.[/hidden]
+¹ What counts as "dropping off the site entirely" is kind of up to interpretation, but my definition would be if I have not made any forum posts in three months and can't be reached via PM.
+
+
+Most things I've made for this project can be found in the [url=https://github.com/Helyphion/fr-fiona-tracker]GitHub repository[/url],[/hidden]
 
 [center][img]https://i.imgur.com/EZkA1ID.png[/img]
 [url=https://www1.flightrising.com/forums/gde/3269012]header/footer[/url] by [url=https://www1.flightrising.com/clan-profile/30450]Ezevic[/url]
