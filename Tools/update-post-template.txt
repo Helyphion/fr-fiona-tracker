@@ -5,7 +5,8 @@
 [list]{featsList}
 [/list]
 
-Both versions of the template have been updated to include the familiars needed for these feats. If you already have a personal tracker set up, you can update it using the instructions below:
+Both versions of the template have been updated to include the familiars needed for these feats. If you already have a personal tracker set up, you can update it using the instructions below.
+[b]For past updates you might have missed, check the [url=https://www1.flightrising.com/forums/gde/3416901/1#post_58979492]archive post[/url]![/b]
 
 [hidden title="UPDATE INSTRUCTIONS // BIO VERSION"]
 Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add a new line below it, and paste in the text from the code block!
