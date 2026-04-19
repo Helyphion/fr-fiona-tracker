@@ -1,5 +1,5 @@
 import yaml
-# from rich import print
+from rich import print
 
 def getFamiliarsData():
     featsOverview = ""
@@ -104,11 +104,6 @@ else:
 # optional parts are provided as --placeholder in the template, required ones as {placeholder}
 # (as to work correctly with .format(), which insists on replacing all {} it finds)
 output = output.format(intro=introSentence, date=FRdate, featsList=featsOverview, bioVer=bioInstructions, forumVer=forumInstructions)
-print(output)
 
 with open("output.txt", "w") as file:
     file.write(output)
-
-# dude idk what happened but my vscode broke and just would not recognise my python installation as a valid interpreter and I was losing my mind for like an hour trying to fix it
-# and now it works again and I ??? don't know why ?????
-# this is why you don't code at 3am...
