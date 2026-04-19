@@ -76,21 +76,24 @@ with open("update-post-template.txt", "r") as file:
 
 output = template
 
+
 announcementURL = info["announcement url"]
 FRdate = info["fr date"]
+# raises exception if URL or date are missing
 if not announcementURL or not FRdate:
     raise Exception("URL/date not provided.")
 
-# TODO
-"{featNumber} new Fiona familiars [url={URL}]have been added[/url]."
-print(len(info["familiars"]))
+featNumber = len(info["familiars"])
+# assembles and properly grammars first sentence of post
+introSentence = f"{featNumber} new Fiona {"familiar" if featNumber == 1 else "familiars"} [url={announcementURL}]{"has" if featNumber == 1 else "have"} been added[/url]."
+
 
 featsOverview, featsInstructions = getFamiliarsData()
 
 # adds [rule] into bio ver, omits it in forum ver
-# inserts finished instructions into the post
-output = output.replace("--bioInstructions", featsInstructions.format(rule="[rule]"))
-output = output.replace("--forumInstructions", featsInstructions.format(rule=""))
+bioInstructions = featsInstructions.format(rule="[rule]")
+forumInstructions = featsInstructions.format(rule="")
+
 
 # adds this part if spacing section has entries
 if info["spacing"]:
@@ -98,8 +101,13 @@ if info["spacing"]:
 else:
     output = output.replace("--spacing", "")
 
-output = output.format(URL=announcementURL, date=FRdate, featNumber=3, featsList=featsOverview)
+# optional parts are provided as --placeholder in the template, required ones as {placeholder}
+# (as to work correctly with .format(), which insists on replacing all {} it finds)
+output = output.format(intro=introSentence, date=FRdate, featsList=featsOverview, bioVer=bioInstructions, forumVer=forumInstructions)
 print(output)
+
+with open("output.txt", "w") as file:
+    file.write(output)
 
 # dude idk what happened but my vscode broke and just would not recognise my python installation as a valid interpreter and I was losing my mind for like an hour trying to fix it
 # and now it works again and I ??? don't know why ?????
