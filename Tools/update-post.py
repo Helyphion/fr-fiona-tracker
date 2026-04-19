@@ -23,6 +23,7 @@ def getFamiliarsData():
                 featsOverview += f"\n[*][gamedb item={x["feat fam"]}] // [b]{x["source"]}[/b]\n(requires [gamedb item={x["req fam 1"]}] + [gamedb item={x["req fam 2"]}])"
                 featsInstructions += f"[rule]\nSearch for: [b]={x["goes after"]}][/b]\n[code]{"{rule}"}\n[gamedb item={x["req fam 1"]}]\n[gamedb item={x["req fam 2"]}][/code]"
             else:
+                # alternative format if no second required familiar is specified
                 featsOverview += f"\n[*][gamedb item={x["feat fam"]}] // [b]{x["source"]}[/b]\n(requires [gamedb item={x["req fam 1"]}])"
                 featsInstructions += f"[rule]\nSearch for: [b]={x["goes after"]}][/b]\n[code]{"{rule}"}\n[gamedb item={x["req fam 1"]}][/code]"
 
