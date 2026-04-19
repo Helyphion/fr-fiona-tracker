@@ -1,6 +1,9 @@
 # Fiona Feats Familiar Tracker
+» *[return to forum thread on Flight Rising](https://www1.flightrising.com/forums/gde/3416901)*
 
+---
 ### Checklist for updates
+*This is NOT needed for updating your personal tracker, it's merely the process I use to update the main template.*
 1. look up & note down **sources** of all familiars
 2. check the **date** in FR time
 3. update **bio ver**
