@@ -7,9 +7,14 @@ def getFamiliarsData():
 
     for x in info["familiars"]:
         
+        # excludes the second familiar from input validation
+        # (since there are a handful feats that only require one)
+        requiredData = x.copy()
+        requiredData.pop("req fam 2")
+
         # creates a list of true/false values based on whether each field the familiar entry is filled in or not
         # ...super condensed though, so it kind of hurts my brain
-        filled = [v not in (None, "") for v in x.values()]
+        filled = [v not in (None, "") for v in requiredData.values()]
         print(filled)
 
         if all(filled):
