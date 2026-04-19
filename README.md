@@ -1,7 +1,7 @@
 # Fiona Feats Familiar Tracker
 » *[return to forum thread on Flight Rising](https://www1.flightrising.com/forums/gde/3416901)*
 
-If you're looking for a compact(-ish) list of all familiars needed for Fiona feats on Flight Rising, you've come to the right place! This is primarily intended as a template you can put in a dragon bio or a forum post to keep track of which familiars you've already obtained or awakended, but you can also just... look at the live example of it in the [forum thread](https://www1.flightrising.com/forums/gde/3416901) if that's useful to you.
+If you're looking for a compact(-ish) list of all familiars needed for Fiona feats on Flight Rising, you've come to the right place! This is primarily intended as a template you can put in a dragon bio or a forum post to keep track of which familiars you've already obtained or awakended, but you can also look at the live example of it in the [forum thread](https://www1.flightrising.com/forums/gde/3416901) if that's useful to you.
 
 The template is available in two versions – the [forum version](https://github.com/Helyphion/fr-fiona-tracker/blob/main/Template/forum-version.txt) and the [dragon bio version](https://github.com/Helyphion/fr-fiona-tracker/blob/main/Template/bio-version.txt). You're free to edit both of them as much as you want to suit your needs; you also don't have to keep the credit I included if you don't want to.
 
