@@ -19,10 +19,16 @@ def getFamiliarsData():
 
         if all(filled):
             # assembles overview list for start of post, and edit instructions
-            featsOverview += f"\n[*][gamedb item={x["feat fam"]}] // [b]{x["source"]}[/b]\n(requires [gamedb item={x["req fam 1"]}] + [gamedb item={x["req fam 2"]}])"
-            featsInstructions += f"[rule]\nSearch for: [b]={x["goes after"]}][/b]\n[code]{"{rule}"}\n[gamedb item={x["req fam 1"]}]\n[gamedb item={x["req fam 2"]}][/code]"
+            if x["req fam 2"]:
+                featsOverview += f"\n[*][gamedb item={x["feat fam"]}] // [b]{x["source"]}[/b]\n(requires [gamedb item={x["req fam 1"]}] + [gamedb item={x["req fam 2"]}])"
+                featsInstructions += f"[rule]\nSearch for: [b]={x["goes after"]}][/b]\n[code]{"{rule}"}\n[gamedb item={x["req fam 1"]}]\n[gamedb item={x["req fam 2"]}][/code]"
+            else:
+                featsOverview += f"\n[*][gamedb item={x["feat fam"]}] // [b]{x["source"]}[/b]\n(requires [gamedb item={x["req fam 1"]}])"
+                featsInstructions += f"[rule]\nSearch for: [b]={x["goes after"]}][/b]\n[code]{"{rule}"}\n[gamedb item={x["req fam 1"]}][/code]"
+
         elif any(filled):
             raise Exception(f"Feats data is incomplete.")
+
         else:
             print("skipped a blank familiars entry")
 
