@@ -118,3 +118,5 @@ output = output.format(intro=introSentence, date=FRdate, featsList=featsOverview
 
 with open("output.txt", "w") as file:
     file.write(output)
+
+print("wrote to output.txt")
