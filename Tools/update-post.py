@@ -87,6 +87,11 @@ print(len(info["familiars"]))
 
 featsOverview, featsInstructions = getFamiliarsData()
 
+# adds [rule] into bio ver, omits it in forum ver
+# inserts finished instructions into the post
+output = output.replace("--bioInstructions", featsInstructions.format(rule="[rule]"))
+output = output.replace("--forumInstructions", featsInstructions.format(rule=""))
+
 # adds this part if spacing section has entries
 if info["spacing"]:
     output = output.replace("--spacing", spacingInstructions())
