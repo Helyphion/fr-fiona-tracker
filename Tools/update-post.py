@@ -2,6 +2,7 @@ import yaml
 from rich import print
 
 def getFamiliarsData():
+    featNumber = 0
     featsOverview = ""
     featsInstructions = ""
 
@@ -27,13 +28,15 @@ def getFamiliarsData():
                 featsOverview += f"\n[*][gamedb item={x["feat fam"]}] // [b]{x["source"]}[/b]\n(requires [gamedb item={x["req fam 1"]}])"
                 featsInstructions += f"[rule]\nSearch for: [b]={x["goes after"]}][/b]\n[code]{"{rule}"}\n[gamedb item={x["req fam 1"]}][/code]"
 
+            featNumber += 1
+
         elif any(filled):
             raise Exception(f"Feats data is incomplete.")
 
         else:
             print("skipped a blank familiars entry")
 
-    return featsOverview, featsInstructions
+    return featNumber, featsOverview, featsInstructions
 
 
 def spacingInstructions():
@@ -98,12 +101,11 @@ FRdate = info["fr date"]
 if not announcementURL or not FRdate:
     raise Exception("URL/date not provided.")
 
-featNumber = len(info["familiars"])
+
+featNumber, featsOverview, featsInstructions = getFamiliarsData()
+
 # assembles and properly grammars first sentence of post
 introSentence = f"{featNumber} new Fiona {"familiar" if featNumber == 1 else "familiars"} [url={announcementURL}]{"has" if featNumber == 1 else "have"} been added[/url]."
-
-
-featsOverview, featsInstructions = getFamiliarsData()
 
 # adds [rule] into bio ver, omits it in forum ver
 bioInstructions = featsInstructions.format(rule="[rule]")
@@ -115,6 +117,7 @@ output = output.replace("--spacing", spacingInstructions())
 # optional parts are provided as --placeholder in the template, required ones as {placeholder}
 # (as to work correctly with .format(), which insists on replacing all {} it finds)
 output = output.format(intro=introSentence, date=FRdate, featsList=featsOverview, bioVer=bioInstructions, forumVer=forumInstructions)
+
 
 with open("output.txt", "w") as file:
     file.write(output)
