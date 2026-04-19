@@ -1,0 +1,144 @@
+[center]
+[img]https://i.imgur.com/EZkA1ID.png[/img]
+
+[size=6][b]PAST UPDATE INSTRUCTIONS[/b][/size]
+Note that the date format used for version numbers is [b]dd-mm-yyyy[/b], not mm-dd-yyyy.
+The most recent updates are listed first.[/center]
+
+[center][size=5][b]BIO VERSION[/b][/size][/center]
+[hidden title="23-10-2025"]
+Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add a new line below it, and paste in the text from the code block!
+[rule]
+Search for: [b]=58768][/b]
+[code][rule]
+[gamedb item=46536]
+[gamedb item=46537][/code]
+[rule]
+Search for: [b]=16482][/b]
+[code][rule]
+[gamedb item=16479]
+[gamedb item=16477][/code]
+[rule]
+Search for: [b]=20144][/b]
+[code][rule]
+[gamedb item=20147]
+[gamedb item=20153][/code]
+[rule]
+If you want, you can search for [b]version:[/b] and replace the date behind it with
+[b]23-10-2025[/b] to make it easier to keep track of what exactly you've added.
+[/hidden]
+[hidden title="14-09-2025"]
+Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add a new line below it, and paste in the text from the code block!
+[rule]
+Search for: [b]=57926][/b]
+[code][rule]
+[gamedb item=57922]
+[gamedb item=57924][/code]
+[rule]
+If you want, you can search for [b]version:[/b] and replace the date behind it with
+[b]14-09-2025[/b] to make it easier to keep track of what exactly you've added.
+[/hidden]
+[hidden title="25-08-2025"]
+Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add a new line below it, and paste in the text from the corresponding code block!
+[rule]
+Search for: [b]gamedb item=28229[/b]
+[code][rule]
+[gamedb item=28133]
+[gamedb item=28234][/code]
+[rule]
+Search for: [b]gamedb item=38503[/b]
+[code][rule]
+[gamedb item=38494]
+[gamedb item=38493][/code]
+[rule]
+Search for: [b]gamedb item=24136[/b]
+[code][rule]
+[gamedb item=17373] (Level 14)
+[gamedb item=17374] (Level 14)[/code]
+[rule]
+Search for: [b]gamedb item=58032[/b]
+[code][rule]
+[gamedb item=57927]
+[gamedb item=57926][/code]
+[rule]
+If you want, you can search for [b]version:[/b] and replace the date behind it with
+[b]25-08-2025[/b] to make it easier to keep track of what exactly you've added.
+[/hidden]
+
+
+[rule]
+
+
+[center][size=5][b]FORUM VERSION[/b][/size][/center]
+[hidden title="23-10-2025"]
+Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add [b]two new lines[/b] below it, and paste in the text from the code block!
+[rule]
+Search for: [b]=58768][/b]
+[code]
+[gamedb item=46536]
+[gamedb item=46537][/code]
+[rule]
+Search for: [b]=16482][/b]
+[code]
+[gamedb item=16479]
+[gamedb item=16477][/code]
+[rule]
+Search for: [b]=20144][/b]
+[code]
+[gamedb item=20147]
+[gamedb item=20153][/code]
+[rule]
+Additionally, to align the columns correctly, you will have to:
+search for [b]=21526][/b] and remove [b]three blank lines[/b] below it.
+[rule]
+If you want, you can search for [b]version:[/b] and replace the date behind it with
+[b]23-10-2025[/b] to make it easier to keep track of what exactly you've added.
+[/hidden]
+[hidden title="14-09-2025"]
+Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add [b]two new lines[/b] below it, and paste in the text from the code block!
+[rule]
+Search for: [b]=57926][/b]
+[code][gamedb item=57922]
+[gamedb item=57924][/code]
+[rule]
+Additionally, to align the columns correctly, you will have to:
+search for [b]=34793][/b] and insert [b]three new lines[/b] below it.
+[rule]
+If you want, you can search for [b]version:[/b] and replace the date behind it with
+[b]14-09-2025[/b] to make it easier to keep track of what exactly you've added.
+[/hidden]
+[hidden title="25-08-2025"]
+Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add [b]two new lines[/b] below it, and paste in the text from the corresponding code block!
+[rule]
+Search for: [b]gamedb item=28229[/b]
+[code]
+[gamedb item=28133]
+[gamedb item=28234][/code]
+[rule]
+Search for: [b]gamedb item=38503[/b]
+[code]
+[gamedb item=38494]
+[gamedb item=38493][/code]
+[rule]
+Search for: [b]gamedb item=24136[/b]
+[code]
+[gamedb item=17373] (Level 14)
+[gamedb item=17374] (Level 14)[/code]
+[rule]
+Search for: [b]gamedb item=58032[/b]
+[code]
+[gamedb item=57927]
+[gamedb item=57926][/code]
+[rule]
+Additionally, to align the columns correctly, you will have to:
+search for [b]gamedb item=21526[/b] and insert [b]three new lines[/b] below it;
+search for [b]gamedb item=34793[/b] and insert [b]eight new lines[/b] below it;
+and search for [b]gamedb item=21437[/b] and [b]remove the blank line[/b] after it.
+[rule]
+If you want, you can search for [b]version:[/b] and replace the date behind it with
+[b]25-08-2025[/b] to make it easier to keep track of what exactly you've added.
+[/hidden]
+
+[center][img]https://i.imgur.com/EZkA1ID.png[/img]
+[url=https://www1.flightrising.com/forums/gde/3269012]header/footer[/url] by [url=https://www1.flightrising.com/clan-profile/30450]Ezevic[/url]
+[/center]

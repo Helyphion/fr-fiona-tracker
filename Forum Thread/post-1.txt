@@ -1,0 +1,64 @@
+[center]
+[img]https://i.imgur.com/EZkA1ID.png[/img]
+
+[size=6][b]FIONA FEATS FAMILIARS TRACKER[/b][/size][/center]
+
+If you're looking for a compact(-ish) list of all familiars needed for Fiona feats, you've come to the right place! This is primarily intended as a template you can put in a dragon bio or a forum post to keep track of which familiars you've already obtained or awakended, but you can also just... look at it here if that's useful to you I guess.
+
+The code is available in two versions, one is intended for forum posts and one for dragon bios, but you're free to edit both of them as much as you want to suit your needs. I use [i]italics[/i] for obtained familiars and [s][i]italics+strike-through[/i][/s] for awakened ones in my [url=https://www1.flightrising.com/forums/qnc/3416971/1#post_58988457]personal tracking thread[/url], but you can use whatever works for you. You also don't have to keep the credit I included in the template if you don't want to!
+
+If you spot any mistakes, have any suggestions, or notice that the template has not been updated for a newly released feat, feel free to ping me in this thread or send me a PM. [emoji=new friend size=1]
+
+[b]If you missed one or several past updates of the template and don't want to fill in a new copy, check [url=https://www1.flightrising.com/forums/gde/3416901/1#post_58979492]this post[/url] for an archive of update instructions![/b]
+(Do note that the date format used for version numbers is [b]dd-mm-yyyy[/b], [i]not[/i] mm-dd-yyyy.)
+
+Check out [url=https://www1.flightrising.com/forums/gde/2835296]this thread[/url] by Kapow for a less compact but much more detailed list.
+For festival and coliseum boss familiars, see [url=https://www1.flightrising.com/forums/gde/3432578]this template[/url] by puppybeast!
+
+[center][pinglist=55237] [pinglist=55238][/center]
+To be reminded to update your trackers (or make a new copy of the updated template) whenever [b]new feats[/b] are added, you can join the [b]Updates[/b] pinglist.
+
+To be pinged at the start of [b]seasonal events[/b] that make familiars needed for feats obtainable, you can join the [b]Reminders[/b] pinglist.
+
+
+
+[color=transparent]_[/color] [size=5][b]CHANGELOG[/b][/size]
+[color=transparent]__[/color] [b]15/03/2026[/b] [gamedb item=67548] feat added
+[color=transparent]__[/color] [size=2][b]07/01/2026[/b] past updates archive added, continuation permissions added[/size]
+[color=transparent]__[/color] [size=2][b]23/10/2025[/b] [url=https://www1.flightrising.com/forums/ann/3441700]three new feats[/url] added, one heading changed, main post reformatted[/size]
+[color=transparent]__[/color] [size=2][b]14/09/2025[/b] [gamedb item=65244] feat added[/size]
+[color=transparent]__[/color] [size=2][b]25/08/2025[/b] [url=https://www1.flightrising.com/forums/ann/3432246]four new feats[/url] added, capitalisation fixed, header/footer replaced[/size]
+[color=transparent]__[/color] [size=2][b]08/08/2025[/b] two headings changed to match site terminology[/size]
+[color=transparent]__[/color] [size=2][b]07/08/2025[/b] pinglists created[/size]
+[color=transparent]__[/color] [size=2][b]27/06/2025[/b] [gamedb item=64162] feat added[/size]
+[color=transparent]__[/color] [size=2][b]22/05/2025[/b] thread created with currently available feats[/size]
+
+
+[rule]
+
+[columns]
+[color=transparent]________[/color]
+[nextcol]
+[center]
+[size=5][b][url=https://pastebin.com/q4Pkzup5]Dragon Bio Version[/url][/b][/size]
+[rule]
+[url=https://postimg.cc/hXzDN6R9][img]https://i.postimg.cc/pLkm5M01/FFFT-image-bio.png[/img][/url]
+[/center]
+[nextcol]
+[color=transparent]__[/color]
+[nextcol]
+[center]
+[size=5][b][url=https://pastebin.com/Mn8hCeGP]Forum Version[/url][/b][/size]
+[rule]
+[url=https://postimg.cc/bsFYC8Wy][img]https://i.postimg.cc/y87JN8TZ/FFFT-image-forum.png[/img][/url]
+[/center]
+[/columns]
+
+[hidden title="In case this thread appears to be abandoned:"]I'm not the most reliable person, so in case I do ever drop off this site entirely¹, you're welcome to start up your own continuation of this thread. You may copy and freely modify my BBCode, info texts, spreadsheets, badges, assets, and whatever else I might have created for this project. If there are any parts credited to someone else (that aren't from a collection of free-to-use stuff), I'd appreciate if you contacted that person about it first before reusing it.
+I'd also appreciate if you credited me in your thread in some way (it's not mandatory, but it would make me happy), and if you could send me a PM with a link to your thread, so I can check it out in case I do return eventually!
+
+¹ What counts as "dropping off the site entirely" is kind of up to interpretation, but my definition would be if I have not made any forum posts in three months and can't be reached via PM.[/hidden]
+
+[center][img]https://i.imgur.com/EZkA1ID.png[/img]
+[url=https://www1.flightrising.com/forums/gde/3269012]header/footer[/url] by [url=https://www1.flightrising.com/clan-profile/30450]Ezevic[/url]
+[/center]
