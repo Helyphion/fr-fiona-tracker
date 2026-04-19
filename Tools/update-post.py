@@ -2,7 +2,8 @@ import yaml
 # from rich import print
 
 def getFamiliarsData():
-    ret = []
+    featsOverview = ""
+    featsInstructions = ""
 
     for x in info["familiars"]:
         
@@ -12,15 +13,16 @@ def getFamiliarsData():
         print(filled)
 
         if all(filled):
-            print("all data exists, yay")
+            # assembles overview list for start of post, and edit instructions
+            featsOverview += f"\n[*][gamedb item={x["feat fam"]}] // [b]{x["source"]}[/b]\n(requires [gamedb item={x["req fam 1"]}] + [gamedb item={x["req fam 2"]}])"
+            featsInstructions += f"[rule]\nSearch for: [b]={x["goes after"]}][/b]\n[code]{"{rule}"}\n[gamedb item={x["req fam 1"]}]\n[gamedb item={x["req fam 2"]}][/code]"
         elif any(filled):
-            print("some data exists?")
+            # raise Exception(f"Feats data is incomplete.")
+            pass
         else:
-            print("no data")
+            print("skipped blank familiars entry")
 
-        # TODO: proper handling of each case
-        # TODO: make spacingInstructions() use this format as well perhaps
-        # TODO: ...take a break and get food for now
+    return featsOverview, featsInstructions
 
 
 def spacingInstructions():
@@ -68,25 +70,31 @@ except FileNotFoundError:
     print("[bold yellow]No update-data.yaml found. File has been created; please write your data into it.[/bold yellow]")
     raise
 
+# opens post template
 with open("update-post-template.txt", "r") as file:
     template = file.read()
+
+output = template
 
 announcementURL = info["announcement url"]
 FRdate = info["fr date"]
 if not announcementURL or not FRdate:
     raise Exception("URL/date not provided.")
 
+# TODO
 "{featNumber} new Fiona familiars [url={URL}]have been added[/url]."
 print(len(info["familiars"]))
 
-getFamiliarsData()
+featsOverview, featsInstructions = getFamiliarsData()
 
-# only runs this part if spacing section has entries
+# adds this part if spacing section has entries
 if info["spacing"]:
-    spacingInstructions()
+    output = output.replace("--spacing", spacingInstructions())
+else:
+    output = output.replace("--spacing", "")
 
-test = template.format(URL=announcementURL, featNumber=3, date=FRdate)
-# print(test)
+output = output.format(URL=announcementURL, date=FRdate, featNumber=3, featsList=featsOverview)
+print(output)
 
 # dude idk what happened but my vscode broke and just would not recognise my python installation as a valid interpreter and I was losing my mind for like an hour trying to fix it
 # and now it works again and I ??? don't know why ?????
