@@ -17,8 +17,7 @@ def getFamiliarsData():
             featsOverview += f"\n[*][gamedb item={x["feat fam"]}] // [b]{x["source"]}[/b]\n(requires [gamedb item={x["req fam 1"]}] + [gamedb item={x["req fam 2"]}])"
             featsInstructions += f"[rule]\nSearch for: [b]={x["goes after"]}][/b]\n[code]{"{rule}"}\n[gamedb item={x["req fam 1"]}]\n[gamedb item={x["req fam 2"]}][/code]"
         elif any(filled):
-            # raise Exception(f"Feats data is incomplete.")
-            pass
+            raise Exception(f"Feats data is incomplete.")
         else:
             print("skipped a blank familiars entry")
 
@@ -46,6 +45,10 @@ def spacingInstructions():
             # grammars the sentence correctly lol
             sentenceList.append(f"search for [b]={goesAfter}][/b] and [b]{"add" if change > 0 else "remove"} {abs(change)} {"new" if change > 0 else "blank"} {"line" if abs(change) == 1 else "lines"}[/b] below it")
 
+    # if there are no filled-in entries at all, exits early
+    if sentenceList == []:
+        return ""
+    
     lastEntry = sentenceList[len(sentenceList)-1]
 
     for x in sentenceList:
@@ -94,12 +97,8 @@ featsOverview, featsInstructions = getFamiliarsData()
 bioInstructions = featsInstructions.format(rule="[rule]")
 forumInstructions = featsInstructions.format(rule="")
 
-
-# adds this part if spacing section has entries
-if info["spacing"]:
-    output = output.replace("--spacing", spacingInstructions())
-else:
-    output = output.replace("--spacing", "")
+# inserts spacing instructions
+output = output.replace("--spacing", spacingInstructions())
 
 # optional parts are provided as --placeholder in the template, required ones as {placeholder}
 # (as to work correctly with .format(), which insists on replacing all {} it finds)
