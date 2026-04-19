@@ -6,6 +6,25 @@ Note that the date format used for version numbers is [b]dd-mm-yyyy[/b], not mm-
 The most recent updates are listed first.[/center]
 
 [center][size=5][b]BIO VERSION[/b][/size][/center]
+[hidden title="19-04-2026"]
+Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add a new line below it, and paste in the text from the code block!
+[rule]
+Search for: [b]=58578][/b]
+[code][rule]
+[gamedb item=58579][/code]
+[rule]
+You should also search for [b]version:[/b] and replace the date behind it with [b]19-04-2026[/b] to keep track of which version you're on.
+[/hidden]
+[hidden title="15-03-2026"]
+Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add a new line below it, and paste in the text from the code block!
+[rule]
+Search for: [b]=46537][/b]
+[code][rule]
+[gamedb item=40571]
+[gamedb item=40570][/code]
+[rule]
+You can search for [b]version:[/b] and replace the date behind it with [b]15-03-2026[/b] to keep track of which version you're on.
+[/hidden]
 [hidden title="23-10-2025"]
 Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add a new line below it, and paste in the text from the code block!
 [rule]
@@ -70,6 +89,32 @@ If you want, you can search for [b]version:[/b] and replace the date behind it w
 
 
 [center][size=5][b]FORUM VERSION[/b][/size][/center]
+[hidden title="19-04-2026"]
+Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add [b]two new lines[/b] below it, and paste in the text from the code block!
+[rule]
+Search for: [b]=58578][/b]
+[code]
+[gamedb item=58579][/code]
+[rule]
+Additionally, to align the columns correctly, you will have to:
+search for [b]=21526][/b] and [b]add 2 new lines[/b] below it.
+[rule]
+You should also search for [b]version:[/b] and replace the date behind it with [b]19-04-2026[/b] to keep track of which version you're on.
+[/hidden]
+[hidden title="15-03-2026"]
+Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add [b]two new lines[/b] below it, and paste in the text from the code block!
+[rule]
+Search for: [b]=46537][/b]
+[code]
+[gamedb item=40571]
+[gamedb item=40570][/code]
+
+[rule]
+Additionally, to align the columns correctly, you will have to:
+search for [b]=21526][/b] and remove [b]4 blank lines[/b] below it.
+[rule]
+You can search for [b]version:[/b] and replace the date behind it with [b]15-03-2026[/b] to keep track of which version you're on.
+[/hidden]
 [hidden title="23-10-2025"]
 Use [b]ctrl+F[/b] (or something along the lines of [b]"Find in page"[/b] on mobile) to search for the provided text within your tracker. Once you've found where it is, add [b]two new lines[/b] below it, and paste in the text from the code block!
 [rule]
