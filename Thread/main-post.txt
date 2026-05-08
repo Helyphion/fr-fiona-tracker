@@ -23,7 +23,9 @@ To be pinged at the start of [b]seasonal events[/b] that make familiars needed f
 
 
 [color=transparent]_[/color] [size=5][b]CHANGELOG[/b][/size]
-[color=transparent]__[/color] [b]19/04/2026[/b] [gamedb item=67930] feat added, moved from pastebin to github, github repo published
+[color=transparent]__[/color] [b]08/05/2026[/b] [url=https://www1.flightrising.com/forums/ann/3476030]three new feats[/url] added
+[color=transparent]__[/color] [size=2][b]22/04/2026[/b] moved example images from postimages to imgbb[/size]
+[color=transparent]__[/color] [size=2][b]19/04/2026[/b] [gamedb item=67930] feat added, moved from pastebin to github, github repo published[/size]
 [color=transparent]__[/color] [size=2][b]15/03/2026[/b][gamedb item=67548] feat added[/size]
 [color=transparent]__[/color] [size=2][b]07/01/2026[/b] past updates archive added, continuation permissions added[/size]
 [color=transparent]__[/color] [size=2][b]23/10/2025[/b] [url=https://www1.flightrising.com/forums/ann/3441700]three new feats[/url] added, one heading changed, main post reformatted[/size]
@@ -43,7 +45,7 @@ To be pinged at the start of [b]seasonal events[/b] that make familiars needed f
 [center]
 [size=5][b][url=https://github.com/Helyphion/fr-fiona-tracker/blob/main/Template/bio-version.txt]Dragon Bio Version[/url][/b][/size]
 [rule]
-[url=https://postimg.cc/hXzDN6R9][img]https://i.postimg.cc/pLkm5M01/FFFT-image-bio.png[/img][/url]
+[img]https://i.ibb.co/PzbjYW5k/FFFT-image-bio.png[/img]
 [/center]
 [nextcol]
 [color=transparent]__[/color]
@@ -51,7 +53,7 @@ To be pinged at the start of [b]seasonal events[/b] that make familiars needed f
 [center]
 [size=5][b][url=https://github.com/Helyphion/fr-fiona-tracker/blob/main/Template/forum-version.txt]Forum Version[/url][/b][/size]
 [rule]
-[url=https://postimg.cc/bsFYC8Wy][img]https://i.postimg.cc/y87JN8TZ/FFFT-image-forum.png[/img][/url]
+[img]https://i.ibb.co/ksxGXHt4/FFFT-image-forum.png[/img]
 [/center]
 [/columns]
 
