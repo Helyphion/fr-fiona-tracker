@@ -1,5 +1,5 @@
 [center][size=5]FIONA FEATS FAMILIARS TRACKER[/size]
-[b][url=https://www1.flightrising.com/forums/gde/3416901]Template[/url][/b] by [b][url=https://www1.flightrising.com/clan-profile/676173]Schmelios[/url][/b] [size=2](version: 19-04-2026)[/size]
+[b][url=https://www1.flightrising.com/forums/gde/3416901]Template[/url][/b] by [b][url=https://www1.flightrising.com/clan-profile/676173]Schmelios[/url][/b] [size=2](version: 08-05-2026)[/size]
 
 key: [i][color=#731D08][b]obtained[/b][/color][/i] // [s][i][color=#731D08][b]awakened[/b][/color][/i][/s]
 [/center]
@@ -17,6 +17,9 @@ key: [i][color=#731D08][b]obtained[/b][/color][/i] // [s][i][color=#731D08][b]aw
 [size=4][b]ARLO'S ANCIENT ARTIFACTS[/b][/size]
 [gamedb item=53119] (Frozen Age)
 [gamedb item=53118] (Frozen Age)
+[rule]
+[gamedb item=60807] (Fossilized Flora)
+[gamedb item=60808] (Fossilized Flora)
 
 [size=4][b]BALDWIN'S BUBBLING BREW[/b][/size]
 [gamedb item=12739] (Level 8)
@@ -148,6 +151,9 @@ key: [i][color=#731D08][b]obtained[/b][/color][/i] // [s][i][color=#731D08][b]aw
 [rule]
 [gamedb item=22395]
 [gamedb item=22394]
+[rule]
+[gamedb item=22389]
+[gamedb item=22388]
 
 [size=4][b]SCORCHED FOREST[/b][/size]
 [gamedb item=6338]
@@ -255,6 +261,9 @@ key: [i][color=#731D08][b]obtained[/b][/color][/i] // [s][i][color=#731D08][b]aw
 [rule]
 [gamedb item=24508]
 [gamedb item=24507]
+[rule]
+[gamedb item=24511]
+[gamedb item=24512]
 [rule]
 [gamedb item=17508] (Boss)
 [gamedb item=17507] (Boss)
