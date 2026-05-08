@@ -21,6 +21,6 @@ The template is available in two versions – the [forum version](https://github
     - fix **spacing**, take note of where
     - copy over to [`/Template/forum-version.txt`](https://github.com/Helyphion/fr-fiona-tracker/blob/main/Template/forum-version.txt)
 6. make **update post** with `/Tools/update-post.py`
-7. add new instructions to **archive** *(and save to git)*
-8. update **changelog** in main post *(and save to git)*
+7. add new instructions to **archive** *(and save to [`/Thread/update-instructions-archive.txt`](https://github.com/Helyphion/fr-fiona-tracker/blob/main/Thread/update-instructions-archive.txt))*
+8. update **changelog** in main post *(and save to [`/Thread/main-post.txt`](https://github.com/Helyphion/fr-fiona-tracker/blob/main/Thread/main-post.txt))*
 9. update **personal tracker** using instructions
