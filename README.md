@@ -10,17 +10,17 @@ The template is available in two versions – the [forum version](https://github
 
 ## Checklist for updates
 *This is NOT needed for updating your personal tracker, it's just the process I use to update the main template.*
-1. look up & note down **sources** of all familiars
+1. look up and fill in **IDs & sources** of all familiars
 2. check the **date** in FR time
 3. update [**bio version**](https://github.com/Helyphion/fr-fiona-tracker/blob/main/Template/bio-version.txt)
-    - note down where to **paste after**
     - remember to update **version number**
+    - note down where to **paste after**
     - quickly **test** on a dragon
-4. update **forum version** in example post
+5. update **forum version** in example post
     - remember to update **version number**
     - fix **spacing**, take note of where
     - copy over to [`/Template/forum-version.txt`](https://github.com/Helyphion/fr-fiona-tracker/blob/main/Template/forum-version.txt)
-5. make **update post** with `/Tools/update-post.py`
-6. add new instructions to **archive** *(and save to git)*
-7. update **changelog** in main post *(and save to git)*
-8. update **personal tracker** using instructions
+6. make **update post** with `/Tools/update-post.py`
+7. add new instructions to **archive** *(and save to git)*
+8. update **changelog** in main post *(and save to git)*
+9. update **personal tracker** using instructions
