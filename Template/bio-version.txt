@@ -1,5 +1,5 @@
 [center][size=5]FIONA FEATS FAMILIARS TRACKER[/size]
-[b][url=https://www1.flightrising.com/forums/gde/3416901]Template[/url][/b] by [b][url=https://www1.flightrising.com/clan-profile/676173]Schmelios[/url][/b] [size=2](version: 08-05-2026)[/size]
+[b][url=https://www1.flightrising.com/forums/gde/3416901]Template[/url][/b] by [b][url=https://www1.flightrising.com/clan-profile/676173]Schmelios[/url][/b] [size=2](version: 04-06-2026)[/size]
 
 key: [i][color=#731D08][b]obtained[/b][/color][/i] // [s][i][color=#731D08][b]awakened[/b][/color][/i][/s]
 [/center]
@@ -74,6 +74,8 @@ key: [i][color=#731D08][b]obtained[/b][/color][/i] // [s][i][color=#731D08][b]aw
 [gamedb item=58578]
 [rule]
 [gamedb item=58579]
+[rule]
+[gamedb item=58580]
 
 [NEXTCOL]
 [color=transparent]____________________________________[/color]
@@ -135,6 +137,9 @@ key: [i][color=#731D08][b]obtained[/b][/color][/i] // [s][i][color=#731D08][b]aw
 [gamedb item=54811]
 [gamedb item=54810]
 [rule]
+[gamedb item=29248]
+[gamedb item=29247]
+[rule]
 [gamedb item=21525]
 [gamedb item=21526] (Baldwin)
 [/COLUMNS]
@@ -186,6 +191,9 @@ key: [i][color=#731D08][b]obtained[/b][/color][/i] // [s][i][color=#731D08][b]aw
 [rule]
 [gamedb item=57922]
 [gamedb item=57924]
+[rule]
+[gamedb item=58027]
+[gamedb item=58028]
 
 [size=4][b]SANDSWEPT DELTA[/b][/size]
 [gamedb item=38527]
