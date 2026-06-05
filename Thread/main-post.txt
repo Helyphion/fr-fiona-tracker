@@ -23,7 +23,8 @@ To be pinged at the start of [b]seasonal events[/b] that make familiars needed f
 
 
 [color=transparent]_[/color] [size=5][b]CHANGELOG[/b][/size]
-[color=transparent]__[/color] [b]08/05/2026[/b] [url=https://www1.flightrising.com/forums/ann/3476030]three new feats[/url] added
+[color=transparent]__[/color] [b]06/04/2026[/b] another [url=https://www1.flightrising.com/forums/ann/3479685]three new feats[/url] added
+[color=transparent]__[/color] [size=2][b]08/05/2026[/b] [url=https://www1.flightrising.com/forums/ann/3476030]three new feats[/url] added[/size]
 [color=transparent]__[/color] [size=2][b]22/04/2026[/b] moved example images from postimages to imgbb[/size]
 [color=transparent]__[/color] [size=2][b]19/04/2026[/b] [gamedb item=67930] feat added, moved from pastebin to github, github repo published[/size]
 [color=transparent]__[/color] [size=2][b]15/03/2026[/b][gamedb item=67548] feat added[/size]
