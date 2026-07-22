@@ -76,6 +76,10 @@ key: [i][color=#731D08][b]obtained[/b][/color][/i] // [s][i][color=#731D08][b]aw
 [gamedb item=58579]
 [rule]
 [gamedb item=58580]
+[rule]
+[gamedb item=58581]
+[rule]
+[gamedb item=60556]
 
 [NEXTCOL]
 [color=transparent]____________________________________[/color]
