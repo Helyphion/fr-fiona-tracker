@@ -37,18 +37,16 @@ with open("feats-list.txt", "r") as file:
 while "" in featsList:
     featsList.remove("")
 
+cleanFeatsList = []
 
 for line in featsList:
 
-    if line.isupper():
-        featsList.remove(line)
+    if not line.isupper() and not line[0] == "_":
+        
+        if line[-1:] == ")":
+            line = line[:line.index("(")-1]
 
-    elif line[0] == "_":
-        featsList.remove(line)
-
-    elif line[-1:] == ")":
-        currentLine = featsList.index(line)
-        featsList[currentLine] = line[:line.index("(")-1]
+        cleanFeatsList.append(line)
     
 
-print(featsList)
+print(cleanFeatsList)
