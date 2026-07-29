@@ -1,0 +1,399 @@
+GATHERING
+Lilyfowl (Hunting, Level 10+)
+Paddyfowl (Hunting, Level 10+)
+
+Creeping Tendril (Foraging, Level 10+)
+Garden Watcher (Foraging, Level 10+)
+
+ARLO'S ANCIENT ARTIFACTS
+Dusky Dreadwolf (Frozen Age)
+Dreadwolf Rimestalker (Frozen Age)
+
+Leaftail Lizard (Fossilized Flora)
+Enamored Leaftail (Fossilized Flora)
+
+BALDWIN'S BUBBLING BREW
+Amberwing Waveskimmer (Level 8)
+Great Blue Waveskimmer (Level 8)
+
+Iron Construct (Level 11)
+Rusty Automaton (Level 11)
+
+Painted Protobeast (Level 14)
+Protobeast (Level 14)
+
+Algae-Bottom Slarg (Level 15)
+Tar-Trooper Slarg (Level 15)
+
+Sorrel Gryphlet (Level 25)
+Superb Gryphlet (Level 25)
+
+SWIPP'S SWAP STAND
+Empress Beetle
+Bloodstone Beetle
+
+Glamourtail Hopper
+Bellus Glamourtail
+
+Autumn Sea Dragon
+Seaweed Scavenger
+
+Chocolate Ferret
+
+
+TREASURE MARKETPLACE
+Platewing Sphinx
+False Sphinx
+
+Silver Ferret
+
+GEM MARKETPLACE
+Longhorn Capricat
+Prancing Capricat
+
+Roundhorn Melprin
+Melprin
+
+
+RETIRED
+Slight Eyewing
+
+Willowmane Deerling
+
+Light Gryphon
+
+Lightning Gryphon
+
+Fire Gryphon
+
+Arcane Gryphon
+
+Plague Gryphon
+
+Earth Gryphon
+__	____________________________________
+NIGHT OF THE NOCTURNE
+Serpentine Lamp
+Vulpine Lamp
+
+Inquisitive Shroud
+Valorous Cape
+
+Smoldering Sconce
+Calculating Candelabra
+
+Vigorous Goblet
+Dancing Chalice
+
+Wooden Marionette
+Painted Marionette
+
+Animated Statue
+Living Sculpture
+
+Swinging Chandelier
+Pitfall Fixture
+
+Radiant Flutterbun (Baldwin)
+Flutterbun (Baldwin)
+
+Fairy Octopus (Baldwin)
+Melon Squirmscoot (Baldwin)
+
+WARRIOR'S WAY
+Raging Tiger Foo
+Ferocious Foo
+
+Bladed Boa
+Serrated Snake
+
+Nightshade Reaper
+Thornhedge Dryad
+
+War Flight
+Armed Flight
+
+Frosttrail Scout
+Iceridge Warrior
+
+TALK LIKE A PIRATE WEEK
+Raptorik Captain
+Raptorik Freebooter
+
+Seafaring Rodaque
+Rodaque Standardbearer
+
+Scarlet Macaw (Baldwin)
+Blue and Gold Macaw (Baldwin)
+
+LOVE IS IN THE AIR
+Blushing Tendertiel
+Tendertiel
+
+Strawberry Noggle
+Chocolate Noggle
+
+Sweetheart Swan
+Enamored Swan (Baldwin)
+
+
+
+
+
+
+
+
+
+
+
+___	TRAINING FIELDS
+Ceanothus Brawler
+Mith Bruiser
+
+Ragepuff
+Sweetpuff
+
+Satin Pocketmouse
+Frosted Pocketmouse
+
+SCORCHED FOREST
+Painted Centaur
+Wintermane Spearman
+
+Wintermane Bowman
+Centaur Archer
+
+Moss-Covered Guardian
+Augite Protector
+
+BONEYARD
+Boneseeker
+Spinal Sorcerer
+
+Carcass Custodian
+Boneyard Patroller
+
+Ridgespine Streak
+Skeletal Streak
+
+Ossein Scavenger
+Infected Scavenger
+
+Spinesword Warden
+Boneblade Knight
+
+Boneyard Omen
+Bearded Shrieker
+
+Bloodfang Watcher
+Bloodfang Hunter
+
+Corven Scribe
+Bonepicker Archivist
+
+SANDSWEPT DELTA
+Redtail Gryphon
+Masked Gryphon
+
+Fennec Kitsune
+Charcoal Kitsune
+
+Desert Strangler
+Prickly Strangler
+
+SILK-STREWN WRECKAGE
+Assassin Bug
+Colony Killer
+
+Jelly Jewel
+Roving Jelly Jewel
+
+Moth Keeper (Boss)
+Midnight Lantern (Boss)
+
+BLOOMING GROVE
+Lilium Floron
+Petalmane Floron
+
+Spotted Faun
+Grove Piper
+
+FORGOTTEN CAVE
+Peacevine Aardvark
+Deepmine Aardvark
+
+BAMBOO FALLS
+Mantled Foo
+Tigerblood Foo
+
+THUNDERHEAD SAVANNA
+Ampelope
+Starry Ampelope
+
+Unburdened Billy
+Roundhorn Rager
+
+Magpie Sphinx
+Dustfeather Sphinx
+
+Greattusk
+Pale Greattusk
+
+Condorwing Champion
+Falconclaw Warrior
+
+Thunderstomp (Boss)
+Rockback Charger (Boss)
+
+REDROCK COVE
+Mirage Puffer
+Daydream Puffer
+
+Leopard Coralclimber
+Noxious Coralclimber
+
+WATERWAY
+Sludge Sifter
+Scaleside Noggle
+
+ARENA
+Hulking Greatowl
+Armored Greatowl
+
+Boran Veteran
+Spellwall Boran
+
+Ashmane Chimera
+Bengal Chimera
+
+Raptorik Ringmaster
+Stormclaw Showman
+
+Undying Featherback (Boss)
+Featherback Boar (Boss)
+
+VOLCANIC VENTS
+Fiendcat
+Flamerest Fiendcat
+
+Firemane Manticore
+Ghost Manticore
+
+Ophiotaurus
+Ashscale Ophiotaurus
+____________________________________	__	RAINSONG JUNGLE
+Clown Hippocampus
+Hippocampus
+
+King Parda
+Parda
+
+Ultramel Amphithere
+Ringlet Amphithere
+
+Deadwood Boar
+Barkback Boar
+
+Petal Jumper
+Budwing Morpho
+
+Goldenbeast (Boss)
+Overcharged Silverbeast (Boss)
+
+BOREAL WOOD
+Longneck Hunter
+Longneck Wanderer
+
+Frosttangle Strangler
+Deadwood Strangler
+
+CRYSTAL POOLS
+Stonewatch Prince
+Windcarve Fugitive
+
+Crystalplate Stinger
+Sparkling Stinger
+
+Hippalectryon
+Arctic Hippalectryon
+
+Hawksbill Goliath (Boss)
+Crystalhide Jester (Boss)
+
+HARPY'S ROOST
+Cardinal Hippogriff
+Blue Tang Hippogriff
+
+Crowned Roc (Boss)
+Roc (Boss)
+
+GHOSTLIGHT RUINS
+Carrioncorn
+Nightmare
+
+Tatterwing Carcass
+Shatterbone Vulture
+
+Greybeak Reaper
+Tengu Caller
+
+Wraith Hound
+Infestation Hound
+
+Aer Phantom
+Lux Spectre
+
+Otherworldly Aura
+Somber Spirit
+
+MIRE
+Mossy Cerdae
+Wetland Unicorn
+
+KELP BEDS
+Maren Warrior
+Maren Ambusher
+
+Maren Wavesinger
+Maren Scout
+
+Jeweled Octoflyer
+Octoflyer
+
+Corrosive Depin
+Depin
+
+Wave Sweeper (Boss)
+Mantarune (Boss)
+
+CONSTRUCT WORKSHOP
+Robotic Tender
+Mechanical Destroyer
+
+Sentry Squawker
+Chromefeather Lookout
+
+Coppercoil Creeper
+Black Iron Creeper
+
+Construction Mith
+Sentinel Mith
+
+Swift Lumen
+Swift Volt
+
+Ferberus
+Calico Ferberus
+
+Frost Delver (Boss)
+Stone Borer (Boss)
+
+FORBIDDEN PORTAL
+Foolish Prince
+Mindless Flight
+
+Barhide Menace
+Aberrant Chacma
+
+Teleporting Planesrunner
+Giggling Planesrunner
