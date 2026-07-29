@@ -1,10 +1,15 @@
-Open [this page](https://www1.flightrising.com/bestiary/23?view=discovered&filter=true&location=hoard&bond_level=not-awakened&limit=60&display=compact), highlight the full page of familiar names, and copy them into `owned.txt`. You will need to do this for every page individually.
+**PLEASE NOTE: The bestiary has a different URL for every user, so remember to replace the `<USERID>` placeholders in these links with your own ID. (Or use the links the script provides you with.)**
 
-If you keep any familiars in your vault, you should also check [this other page](https://www1.flightrising.com/bestiary/23?view=discovered&filter=true&location=vault&bond_level=not-awakened&limit=60&display=compact) and copy them as well. (Just paste them into `owned.txt` along with the others.)
+<br>
+<br>
+
+Open `https://www1.flightrising.com/bestiary/<USERID>?view=discovered&filter=true&location=hoard&bond_level=not-awakened&limit=60&display=compact`, highlight the full page of familiar names, and copy them into `owned.txt`. You will need to do this for every page individually.
+
+If you keep any familiars in your vault, you should also check `https://www1.flightrising.com/bestiary/<USERID>?view=discovered&filter=true&location=vault&bond_level=not-awakened&limit=60&display=compact` and copy them as well. (Just paste them into `owned.txt` along with the others.)
 
 <br>
 
-Then, open [this page](https://www1.flightrising.com/bestiary/23?view=discovered&filter=true&location=lair&bond_level=not-awakened&limit=60&display=compact),
+Then, open `https://www1.flightrising.com/bestiary/<USERID>?view=discovered&filter=true&location=lair&bond_level=not-awakened&limit=60&display=compact`,
 highlight all familiar names, and copy them into `in-progress.txt`.
 
 **WARNING**: The site does not distinguish between familiars equipped in the lair vs hibernal den - if your only copy of a familiar required for a feat 
