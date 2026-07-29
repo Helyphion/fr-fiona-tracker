@@ -25,7 +25,7 @@ familiar or after the last.
 
 <br>
 
-**Once you've completed these steps, run the script again to get your queue of fams to be bonded!**
+**Once you've completed these steps, run the script again to get your queue of fams to be bonded with! :]**
 
 <br>
 
