@@ -8,6 +8,11 @@ try:
     with open("in-progress.txt", "r") as file:
         equippedFams = file.read().splitlines()
 
+    # slightly silly way of checking if the files are empty
+    # if they are, this will throw an error and therefore trigger the except block below
+    ownedFams[0]
+    equippedFams[0]
+
 except:
     userId = input("Enter your user ID: ")
 
