@@ -32,7 +32,7 @@ except:
     instructions = f"""
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 FOR MORE READABLE INSTRUCTIONS (BUT WITHOUT CUSTOMISED LINKS), CHECK HERE:
-https://github.com/Helyphion/fr-fiona-tracker/blob/main/Tools/Bestiary%20Cross-checker/instructions.md
+https://github.com/Helyphion/fr-fiona-tracker/blob/main/Tools/Bestiary%20Cross-Checker/instructions.md
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
 INSTRUCTIONS:
