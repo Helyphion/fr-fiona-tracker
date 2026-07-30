@@ -26,8 +26,8 @@ except:
     with open("owned.txt", "w") as file:
         file.write("")
 
-    #with open("in-progress.txt", "w") as file:
-    #    file.write("")
+    with open("in-progress.txt", "w") as file:
+        file.write("")
 
     instructions = f"""
 //////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -68,19 +68,18 @@ def removeBlankLinkes(list):
         list.remove("")
 
 
+with open("feats-list.txt", "r") as file:
+    featsList = file.read().splitlines()
+
+removeBlankLinkes(featsList)
+
+
 removeNicknames(ownedFams)
 removeBlankLinkes(ownedFams)
 
 removeNicknames(equippedFams)
 removeBlankLinkes(equippedFams)
 
-
-with open("feats-list.txt", "r") as file:
-    featsList = file.read().splitlines()
-
-# remove blank lines
-while "" in featsList:
-    featsList.remove("")
 
 # remove headings, spacers (_), and notes in parentheses
 cleanFeatsList = []
@@ -96,5 +95,6 @@ for line in featsList:
 
 for x in cleanFeatsList:
     if x in ownedFams and x not in equippedFams:
-        # print(x)
-        pass
+        print(x)
+
+print("If the data in owned.txt or in-progress.txt is outdated: delete those two files, run the script again, and paste your data into the newly generated files using the instructions the script will show you.")
