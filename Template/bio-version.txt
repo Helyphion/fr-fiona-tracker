@@ -1,5 +1,5 @@
 [center][size=5]FIONA FEATS FAMILIARS TRACKER[/size]
-[b][url=https://www1.flightrising.com/forums/gde/3416901]Template[/url][/b] by [b][url=https://www1.flightrising.com/clan-profile/676173]Schmelios[/url][/b] [size=2](version: 21-07-2026)[/size]
+[b][url=https://www1.flightrising.com/forums/gde/3416901]Template[/url][/b] by [b][url=https://www1.flightrising.com/clan-profile/676173]Schmelios[/url][/b] [size=2](version: 26-08-2026)[/size]
 
 key: [i][color=#731D08][b]obtained[/b][/color][/i] // [s][i][color=#731D08][b]awakened[/b][/color][/i][/s]
 [/center]
@@ -13,6 +13,9 @@ key: [i][color=#731D08][b]obtained[/b][/color][/i] // [s][i][color=#731D08][b]aw
 [rule]
 [gamedb item=26125] (Foraging, Level 10+)
 [gamedb item=26126] (Foraging, Level 10+)
+[rule]
+[gamedb item=21662] (Scavenging, Level 31+)
+[gamedb item=21661] (Scavenging, Level 31+)
 
 [size=4][b]ARLO'S ANCIENT ARTIFACTS[/b][/size]
 [gamedb item=53119] (Frozen Age)
@@ -126,6 +129,9 @@ key: [i][color=#731D08][b]obtained[/b][/color][/i] // [s][i][color=#731D08][b]aw
 [rule]
 [gamedb item=40571]
 [gamedb item=40570]
+[rule]
+[gamedb item=40820]
+[gamedb item=40821]
 
 [size=4][b]TALK LIKE A PIRATE WEEK[/b][/size]
 [gamedb item=47011]
