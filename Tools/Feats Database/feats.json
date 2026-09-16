@@ -7,7 +7,19 @@
 
         "Tripled Tulip": {"id": 62286, "requires": {
             "Garden Watcher": {"id": 26126},
-            "Creeping Tendril": {"id": 26125}}}
+            "Creeping Tendril": {"id": 26125}}},
+
+        
+        "feat fam 1": {"id": 2748, "requires": {
+            "bleep": {"id": 38489, "source": "arlo"},
+            "blorp": {"id": 3747, "source": "training fields"}}
+        },
+
+        "feat fam 2": {"id": 2748, "requires": [
+            {"name": "bleep", "id": 38489, "source": "arlo"},
+            {"name": "blorp", "id": 3747, "source": "training fields"}]
+        }
+    
     },
 
 "comment": "this is just a proof of concept. I think a database like this would be really handy to have, and could potentially automate parts of maintaining the tracker in the future...",

@@ -1,0 +1,28 @@
+so uh
+
+using the html prolly won't make things much easier at all, because there isn't 1 page that has all info I'd need
+
+so my current thinking is:
+- copy both the rendered and the source code version of my tracker template
+- extract the names, ids, sources, groupings of the requirement fams from that (ensure that everything is getting matched correctly!!)
+- have that put into a JSON structure (still need to decide on which format I prefer...)
+- generate database links for 1st fam in each feat (using ids) in order to manually look up name + id of corresponding feat fam
+
+
+also instead of having a separate "notes" field I might set up the database to instead use
+source: "forbidden portal (boss)"
+for example
+
+
+oh right I guess I also wouldn't be grouping them by source. hm. that's.. probably for the best actually, for versatility
+
+
+prolly gonna go with this format:
+
+"feat fam 1": {"id": 2748, "requires": {
+            "bleep": {"id": 38489, "source": "arlo"},
+            "blorp": {"id": 3747, "source": "training fields"}}
+        },
+
+although it does mean the "requires" list items will need to be accessed through Object.keys() rather than just by count
+which does bother me slightly, but I think for the sake of human-readability I do still prefer it
