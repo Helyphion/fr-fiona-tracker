@@ -16,7 +16,7 @@
         },
 
         "feat fam 2": {"id": 2748, "requires": [
-            {"name": "bleep", "id": 38489, "source": "arlo"},
+            {"name": "bleep", "id": 38489, "source": "arlo's ancient artifacts"},
             {"name": "blorp", "id": 3747, "source": "training fields"}]
         }
     
