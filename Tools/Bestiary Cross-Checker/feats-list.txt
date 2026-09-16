@@ -1,9 +1,16 @@
+___	____________________________________
 GATHERING
 Lilyfowl (Hunting, Level 10+)
 Paddyfowl (Hunting, Level 10+)
 
 Creeping Tendril (Foraging, Level 10+)
 Garden Watcher (Foraging, Level 10+)
+
+Blue Vein Pansy (Foraging, Level 20+)
+Orange Blotch Pansy (Foraging, Level 20+)
+
+Dire Hyena (Scavenging, Level 31+)
+Wasteland Collector (Scavenging, Level 31+)
 
 ARLO'S ANCIENT ARTIFACTS
 Dusky Dreadwolf (Frozen Age)
@@ -116,6 +123,9 @@ Armed Flight
 Frosttrail Scout
 Iceridge Warrior
 
+Conflict Creature
+Battleram Skirmisher
+
 TALK LIKE A PIRATE WEEK
 Raptorik Captain
 Raptorik Freebooter
@@ -135,6 +145,9 @@ Chocolate Noggle
 
 Sweetheart Swan
 Enamored Swan (Baldwin)
+
+
+
 
 
 
